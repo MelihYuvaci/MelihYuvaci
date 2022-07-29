@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Melih Yuvacı</h1>
 <h3 align="center">A passionate IOS Developer from Turkey</h3>
 
+(https://pbs.twimg.com/media/FY1Ff7kWQAIrLFy?format=jpg&name=large)
+
 - 🔭 I’m currently working on **Swift and SwiftUI**
 
 - 🌱 I’m currently learning **SwiftUI and New Apple Technologies**

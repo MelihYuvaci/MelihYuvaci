@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **your experiences about Swift and SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MelihYuvaci?tab=repositories](https://github.com/MelihYuvaci?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/MelihYuvaci?tab=repositories)
 
 - 💬 Ask me about **Swift and SwiftUI**
 

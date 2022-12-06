@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Melih Yuvacı</h1>
 <h3 align="center">A passionate IOS Developer from Turkey</h3>
+Hello there,
+I am a computer engineer who is curious and eager to learn new things, thinks analytically, can easily apply what he has learned, and follows his dreams.
 
 ![A passionate IOS Developer from Turkey](https://pbs.twimg.com/media/FY1Ff7kWQAIrLFy?format=jpg&name=large)
+
+
 
 - 🔭 I’m currently working on **Swift and SwiftUI**
 

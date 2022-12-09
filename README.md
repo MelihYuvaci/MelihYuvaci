@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melih Yuvacı</h1>
 <h3 align="center">A passionate IOS Developer from Turkey</h3>
 
-![A passionate IOS Developer from Turkey](https://pbs.twimg.com/media/FY1Ff7kWQAIrLFy?format=jpg&name=large)
+![A passionate IOS Developer from Turkey](https://pbs.twimg.com/media/FjilxkaXEAAtxR0?format=jpg&name=large)
 
 
 

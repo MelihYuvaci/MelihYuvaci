@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Swift and SwiftUI**
 
-- 📫 How to reach me **melihyuvaci@icloud.com**
+- 📫 How to reach me **info@melihyuvaci.me**
 
 - ⚡ Fun fact **The moon has moonquakes.**
 
